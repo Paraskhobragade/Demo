@@ -1,3 +1,3 @@
 # Demo
 This is my first repository
-Author -Paras khobragade
+Author -Paras khobragade (Psk)
